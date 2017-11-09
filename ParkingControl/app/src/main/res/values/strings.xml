@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Correo Electrónico</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="email_ejemplo">juan.rodriguez@nextu.com</string>
+    <string name="nombre_ejemplo">Juan Rodríguez</string>
+    <string name="enviados">Enviados</string>
+    <string name="enviar">Enviar</string>
+    <string name="para">Para</string>
+    <string name="asunto">Asunto</string>
+    <string name="redactar_mensaje">Redactar mensaje</string>
+</resources>
